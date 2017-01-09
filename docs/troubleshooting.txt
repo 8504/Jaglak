@@ -1,0 +1,6 @@
+1. httpstackoverflow.comquestions35443568this-project-requires-a-visual-studio-update-to-load-error-when-creating-a-xam 
+- nie mozna stworzyc projektu dla platormy Windows (polecam odpowiedz nr 2)
+
+2. Uaktualnic JDK (sprawdzone na jdk-8u11)
+- nie mozna zbudowac projektu dla androida. zmienamiy w viusal stuido > tools > options > xamarin > android.
+problem moze sie pojawic po zrobieniu kroku nr 1.
