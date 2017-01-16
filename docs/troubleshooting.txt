@@ -10,3 +10,7 @@ http://stackoverflow.com/questions/37238846/have-an-resource-attribute-does-not-
 
 4. Jesli jest problem z System.ObjectModel, a napewno jest zaktualizowany Xamarin i Xamarin.Forms i byl robiony pkt.3 to wtedy nic nie robicie
 tylko resetujecie Visual Studio powinno pomoc ale glowy nie daje (mi pomoglo)
+
+5. WCF(API) problem z odpaleniem jej na IIS, albo wola permisje dla pliku web.config albo apka wczytuje sie i nic... 
+W tej sytuacji nalezy folderowi z Api w ktorym sa binarki(/bin) dac uprawnienia wszytkie dla uzytkownikow IIS_IUSRS i IUSR, to samo
+nalezy zrobic z plikem web.config
