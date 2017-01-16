@@ -1,0 +1,1 @@
+Pierwsze co robimy po zaladowaniu juz projektu w Visual Studio to Rebuild, jesli sa problemy (errors list) to zachacam do przeczytania 'Troubleshootings'
